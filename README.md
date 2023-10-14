@@ -1,2 +1,3 @@
 # Sznikak_hazi
-Szoftvertechnikák házik
+
+Szoftvertechnikák házik gyűjteménye 2023 tavaszáról.
